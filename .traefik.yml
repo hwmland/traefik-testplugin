@@ -1,7 +1,7 @@
 displayName: HwMland test plugin
 type: middleware
 
-import: github.com/hwmland/testplugin
+import: github.com/hwmland/traefik-testplugin
 
 summary: '[Test] Add Request Header'
 
