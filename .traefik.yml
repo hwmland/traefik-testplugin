@@ -1,0 +1,11 @@
+displayName: HwMland test plugin
+type: middleware
+
+import: github.com/whmland/testplugin
+
+summary: '[Test] Add Request Header'
+
+testData:
+  Headers:
+    X-Demo: test
+    X-URL: '{{URL}}'
